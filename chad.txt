@@ -1,1 +1,1 @@
-Chads do all of their work in github, no IDE needed
+Chads do all of their work from a vi buffer on the Linux for Windows subsystem
